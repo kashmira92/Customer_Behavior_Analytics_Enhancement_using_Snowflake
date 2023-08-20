@@ -1,9 +1,5 @@
 # Data_Transformation_and_Enhancement_using_Snowflake
 Snowflake Project
-Converted JSON data from AWS S3 buckets into Snowflake tables utilizing complex SQL queries. 
-Improved precision by integrating API-sourced time zone data based on IP addresses. 
-Streamlined data workflows via Snowflake tasks, streams, and pipes. Curated and optimized an analytics dashboard to 
-capture various KPIs resulting in a significant 40% reduction in decision-making time.
 
 retrieved json files from AWS S3 buckets containing user data for VR games and placed them in tables with variable column attributes.
 used a variety of APIs to extract additional timezone data from these gamers' IP addresses.
