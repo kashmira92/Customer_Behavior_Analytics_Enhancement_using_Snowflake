@@ -1,12 +1,8 @@
 # Data_Transformation_and_Enhancement_using_Snowflake
 Snowflake Project
 
-Retrieved json files from AWS S3 buckets containing user data for VR games and placed them in tables with variable column attributes.
+Retrieved JSON files from AWS S3 buckets containing user data within the Virtual Reality domain and efficiently organized them into tables, accommodating variable column attributes. Leveraging various APIs, I enriched the dataset by extracting additional timezone data based on gamers' IP addresses.
 
-Used a variety of APIs to extract additional timezone data from these gamers' IP addresses.
+The data underwent a comprehensive transformation through the application of MERGE, JOINS, and CTAS operations, ensuring its readiness for advanced analytics. I implemented automation in the data workflows using Snowflake TASKS, STREAMS, and PIPES, streamlining the entire process.
 
-Performed transformation using MERGE, JOINS, CTAS.
-
-Automated data workflows using Snowflake TASKS, STREAMS, and PIPES.
-
-Curated and optimized an analytics dashboard to capture various KPIs resulting in a significant 40% reduction in decision-making time.
+In addition, I curated and optimized an analytics dashboard to effectively capture key performance indicators (KPIs). This enhancement led to a remarkable 40% reduction in decision-making time, showcasing the impact of improved data management and visualization on overall efficiency.
