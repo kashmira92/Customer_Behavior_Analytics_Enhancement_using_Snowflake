@@ -1,4 +1,4 @@
-# Data_Transformation_and_Enhancement_using_Snowflake
+# Customer_Behavior_Analytics_Enhancement_using_Snowflake
 Snowflake Project
 
 Retrieved JSON files from AWS S3 buckets containing user data within the Virtual Reality domain and efficiently organized them into tables, accommodating variable column attributes. Leveraging various APIs, enriched the dataset by extracting additional timezone data based on gamers' IP addresses.
