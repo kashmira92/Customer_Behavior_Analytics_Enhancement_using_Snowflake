@@ -1,4 +1,4 @@
-# Customer Behavior Analytics Enhancement using Snowflake
+#  GameSync: Automated Data Pipelines for Gaming Analytics with Snowflake
 Welcome to the repository for the Customer Behavior Analytics Enhancement using Snowflake project! This project demonstrates how to leverage Snowflake for advanced data management, analytics, and automation to enhance customer behavior insights in the Virtual Reality domain. The project showcases various methods for organizing and transforming data, as well as enriching it with additional information for improved decision-making.
 
 Table of Contents
